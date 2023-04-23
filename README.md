@@ -8,7 +8,7 @@
 
 - :zap: In my free time, I play guitar and enjoy keeping fit.
 
-- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-paul-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauliosouthall/)
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-PaulSouthall-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauliosouthall/)
 
 ---
 
