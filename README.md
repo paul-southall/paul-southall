@@ -3,10 +3,8 @@
 ---
 
 ### :man_technologist: About Me :
-
-I am a technologist from Sydney, Australia.
  
-- :telescope: I’m a Technology Leader in a global FTSE100 Entertainment Company.
+- :telescope: I’m a Technology Leader in a global FTSE100 Entertainment Company based in Sydney, Australia.
 
 - :zap: In my free time, I play guitar and enjoy keeping fit.
 
