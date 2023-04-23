@@ -10,7 +10,7 @@
 
 - :zap: In my free time, I play guitar and enjoy keeping fit.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauliosouthall/)
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-paulio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauliosouthall/)
 
 ---
 
