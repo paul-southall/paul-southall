@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 
- I am a technologist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sydney, Australia.
+ I am a <technologist /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sydney, Australia.
  
  - :telescope: I’m working as a technology leader in a global entertainment company.
 
@@ -36,6 +36,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=paulio112&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulio112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
