@@ -32,8 +32,8 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=paulio112&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=paul-southall&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulio112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-southall&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
