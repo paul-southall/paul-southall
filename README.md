@@ -4,8 +4,7 @@
 
 ### :man_technologist: About Me :
  
-- :telescope: I’m a Senior Technology Leader in Sydney, Australia
-
+- :telescope: AI Native Technology leadership at scale. I specialise in high transaction trading and fintech organisations. 
 - :zap: In my free time, I play guitar, play retro games and enjoy keeping fit.
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-PaulSouthall-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauliosouthall/)
