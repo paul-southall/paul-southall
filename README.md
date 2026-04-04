@@ -1,3 +1,4 @@
+<!-- Testing the Claude integration -->
 ![Header](github-header-image.png)
 
 ---
