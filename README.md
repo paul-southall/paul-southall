@@ -6,9 +6,9 @@
 
 Engineering Leader. AI Practitioner. Operator.
 
-I lead a globally distributed team of ~175 engineers at FDJ — building high-performance platforms in fintech and trading where uptime and performance is non-negotiable.
+I lead a globally distributed team of ~175 engineers at FDJ - building high-performance platforms in fintech and trading where uptime and performance is non-negotiable.
 
-AI-native decision making sits at the core of how I operate — keeping people risk, delivery health and compliance exposure in front of me, not behind me.
+AI-native decision making sits at the core of how I operate - keeping people risk, delivery health and compliance exposure in front of me, not behind me.
 
 I build real systems. I share what actually works.
 
@@ -18,9 +18,9 @@ I build real systems. I share what actually works.
 
 | System | What it does |
 |---|---|
-| **Jarvis** | AI orchestrator — the backbone of how I run my organisation |
+| **Jarvis** | AI orchestrator - the backbone of how I run my organisation |
 | **Chief of Staff AI** | Digests anonymised team notes, surfaces patterns and risk across 175 engineers |
-| **Andrew** | Property investment bot — shortlists and evaluates listings against personal investment goals |
+| **Andrew** | Property investment bot - shortlists and evaluates listings against personal investment goals |
 
 ---
 
