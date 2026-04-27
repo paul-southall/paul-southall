@@ -1,5 +1,8 @@
-<!-- Testing the Claude integration -->
 ![Header](github-header-image.png)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Engineering+Leader+at+FDJ;Leading+~175+Engineers+Globally;AI-Native+Decision+Making;Builder+of+AI+Orchestration+Systems;Signal-Led+Leadership+at+Scale" />
+</p>
 
 ---
 
@@ -24,6 +27,26 @@ I build real systems. I share what actually works.
 | **Jarvis** | AI orchestrator - the backbone of how I run my organisation | Shifted from instinct-led to signal-led leadership at scale |
 | **Chief of Staff AI** | Digests anonymised team notes, surfaces patterns and risk across 175 engineers | Earlier risk detection, better 1:1s, more proactive leadership |
 | **Andrew** | Property investment bot - shortlists and evaluates listings against personal investment goals | Replaced hours of manual weekend research with automated recommendations |
+
+---
+
+### System Architecture
+
+```mermaid
+flowchart LR
+    A[Org Signals] --> B[Jarvis Orchestrator]
+    B --> C[Chief of Staff AI]
+    B --> D[Andrew]
+    C --> E[Team Notes Pipeline]
+    C --> F[Risk Detection]
+    D --> G[Listing APIs]
+    E --> H[(Signal Store)]
+    F --> H
+    G --> H
+    H --> I[Daily Briefings]
+    H --> J[1:1 Prep]
+    H --> K[Investment Shortlists]
+```
 
 ---
 
@@ -64,3 +87,10 @@ Tools I actually use to operate:
 ### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=paul-southall&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+---
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paul-southall&theme=github-compact&hide_border=true&color=2563EB&line=2563EB&point=ffffff&area=true" />
+</p>
