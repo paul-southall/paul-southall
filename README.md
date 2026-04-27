@@ -83,14 +83,15 @@ Tools I actually use to operate:
 </div>
 
 ---
-
-### GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=paul-southall&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
----
 ### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=paul-southall&theme=github-compact&hide_border=true&color=2563EB&line=2563EB&point=ffffff&area=true" />
 </p>
+
+
+---
+
+### GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=paul-southall&hide_border=true&background=000000&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
