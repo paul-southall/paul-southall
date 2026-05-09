@@ -10,7 +10,7 @@
 
 Engineering Leader. AI Practitioner. Operator.
 
-I lead a globally distributed team of ~175 engineers at FDJ - building high-performance platforms in fintech and trading where uptime and performance is non-negotiable.
+I lead a globally distributed team of ~200 engineers at FDJ - building high-performance platforms in fintech and trading where uptime and performance is non-negotiable.
 
 AI-native decision making sits at the core of how I operate - keeping people risk, delivery health and compliance exposure in front of me, not behind me.
 
