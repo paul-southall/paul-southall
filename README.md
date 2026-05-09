@@ -1,7 +1,7 @@
 ![Header](github-header-image.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Engineering+Leader+at+FDJ;Leading+~175+Engineers+Globally;AI-Native+Decision+Making;Builder+of+AI+Orchestration+Systems;Signal-Led+Leadership+at+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Engineering+Leader+at+FDJ;Leading+~200+Engineers+Globally;AI-Native+Decision+Making;Builder+of+AI+Orchestration+Systems;Signal-Led+Leadership+at+Scale" />
 </p>
 
 ---
@@ -25,7 +25,7 @@ I build real systems. I share what actually works.
 | System | What it does | Impact |
 |---|---|---|
 | **Jarvis** | AI orchestrator - the backbone of how I run my organisation | Shifted from instinct-led to signal-led leadership at scale |
-| **Chief of Staff AI** | Digests anonymised team notes, surfaces patterns and risk across 175 engineers | Earlier risk detection, better 1:1s, more proactive leadership |
+| **Chief of Staff AI** | Digests anonymised team notes, surfaces patterns and risk across 200 engineers | Earlier risk detection, better 1:1s, more proactive leadership |
 | **Andrew** | Property investment bot - shortlists and evaluates listings against personal investment goals | Replaced hours of manual weekend research with automated recommendations |
 
 ---
