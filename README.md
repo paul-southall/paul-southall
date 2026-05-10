@@ -1,7 +1,7 @@
 ![Header](github-header-image.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Engineering+Leader+at+FDJ;Leading+~200+Engineers+Globally;AI-Native+Decision+Making;Builder+of+AI+Orchestration+Systems;Signal-Led+Leadership+at+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Engineering+Leader;Leading+~200+Engineers+Globally;AI-Native+Decision+Making;Builder+of+AI+Orchestration+Systems;Signal-Led+Leadership+at+Scale" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 Engineering Leader. AI Practitioner. Operator.
 
-I lead a globally distributed team of ~200 engineers at FDJ - building high-performance platforms in fintech and trading where uptime and performance is non-negotiable.
+I lead a globally distributed team of ~200 engineers and architecture building high-performance platforms in fintech and trading where uptime and performance is non-negotiable.
 
 AI-native decision making sits at the core of how I operate - keeping people risk, delivery health and compliance exposure in front of me, not behind me.
 
