@@ -29,22 +29,28 @@ I build real systems. I share what actually works.
 
 ---
 
-### System Architecture
+### How it fits together
 
 ```mermaid
-flowchart LR
-    A[Org Signals] --> B[Jarvis Orchestrator]
-    B --> C[Chief of Staff AI]
-    B --> D[Andrew]
-    C --> E[Team Notes Pipeline]
-    C --> F[Risk Detection]
-    D --> G[Listing APIs]
-    E --> H[(Signal Store)]
-    F --> H
-    G --> H
-    H --> I[Daily Briefings]
-    H --> J[1:1 Prep]
-    H --> K[Investment Shortlists]
+flowchart TB
+    signals["<b>Org signals</b><br/>delivery health · team notes, anonymised · compliance exposure"]
+    jarvis{{"<b>Jarvis</b> · orchestrator"}}
+    cos["<b>Chief of Staff AI</b><br/>patterns and risk across ~200 engineers"]
+    front["<b>In front of me, not behind me</b><br/>daily briefing · 1:1 prep · early risk flags"]
+    me(("I decide<br/>and act"))
+    andrew["<b>Andrew</b> · personal<br/>listings in, investment shortlists out"]
+
+    signals --> jarvis --> cos --> front
+    front -- "signal-led, not instinct-led" --> me
+    jarvis -.-> andrew
+
+    classDef default fill:transparent,stroke:#8E8E93,stroke-width:1px
+    classDef hub fill:#2563EB,stroke:#2563EB,color:#FFFFFF
+    classDef human fill:transparent,stroke:#2563EB,stroke-width:2px
+    classDef side fill:transparent,stroke:#8E8E93,stroke-width:1px,stroke-dasharray:4 4
+    class jarvis hub
+    class me human
+    class andrew side
 ```
 
 ---
