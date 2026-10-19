@@ -1,14 +1,13 @@
-![Header](github-header-image.png)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=720&lines=Engineering+Leader;Leading+~200+Engineers+Globally;AI-Native+Decision+Making;Builder+of+AI+Orchestration+Systems;Signal-Led+Leadership+at+Scale" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-header-dark.png">
+  <img alt="Paul Southall. I build real systems. I share what actually works. AI adoption consultant, Sydney." src="github-header-image.png">
+</picture>
 
 ---
 
 ### About Me
 
-Engineering Leader. AI Practitioner. Operator.
+AI adoption consultant in Sydney. Engineering leader. Operator.
 
 I lead a globally distributed team of ~200 engineers and architecture building high-performance platforms in fintech and trading where uptime and performance is non-negotiable.
 
@@ -81,14 +80,6 @@ Tools I actually use to operate:
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
 </div>
-
----
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paul-southall&theme=github-compact&hide_border=true&color=2563EB&line=2563EB&point=ffffff&area=true" />
-</p>
-
 
 ---
 
