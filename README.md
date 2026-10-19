@@ -35,10 +35,10 @@ I build real systems. I share what actually works.
 %%{init: {"flowchart": {"wrappingWidth": 320}}}%%
 flowchart TB
     signals["<b>Org signals</b><br/>delivery health<br/>compliance exposure<br/>anonymised team notes"]
-    jarvis{{"<b>Jarvis</b><br/>orchestrator"}}
+    jarvis("<b>Jarvis</b><br/>orchestrator")
     cos["<b>Chief of Staff AI</b><br/>patterns and risk<br/>across ~200 engineers"]
     front["<b>In front of me, not behind me</b><br/>daily briefing · 1:1 prep<br/>early risk flags"]
-    me(("I decide<br/>and act"))
+    me(["I decide and act"])
     andrew["<b>Andrew</b> · personal<br/>listings in, investment<br/>shortlists out"]
 
     signals --> jarvis --> cos --> front
