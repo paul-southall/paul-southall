@@ -23,13 +23,52 @@ I build real systems. I share what actually works.
 
 | System | What it does | Impact |
 |---|---|---|
+| **Throughline** | Engineering intelligence for teams of humans and agents: flow and DORA metrics, working agreements and an agent-run ledger. Built by the agent pipeline it measures, with 7 agent roles and 21 Claude skills | 6 of 15 merged pull requests came from the unattended pipeline, every one behind my merge (Oct 2026) |
 | **Jarvis** | AI orchestrator - the backbone of how I run my organisation | Shifted from instinct-led to signal-led leadership at scale |
-| **Chief of Staff AI** | Digests anonymised team notes, surfaces patterns and risk across 200 engineers | Earlier risk detection, better 1:1s, more proactive leadership |
+| **Chief of Staff AI** | Weekly Pulse skill: turns anonymised voice notes into a leadership read across 200 engineers | Earlier risk detection, better 1:1s, more proactive leadership |
+| **Engineering Health Companion** | Weekly engineering health from GitLab: deterministic metrics, a Claude-written narrative and follow-up questions | Every number is checked against tool output, and names are pseudonymised before data leaves the laptop |
+| **AI-governed software factory** | Five role-separated agents (spec, architect, dev, QA, security) with a human approval gate between every stage | A tamper-evident audit trail from intent to release |
+| **Corporate Bingo** | Real-time multiplayer buzzword bingo, built as a vehicle for end-to-end AI orchestration. A requirements skill turns a plain-English brief into a ready GitHub issue | Live on Vercel |
+| **Peckish** | A Claude skill plus an MCP server: photo of the fridge in, three dinners you can make tonight out | Built in public, weekend by weekend |
+| **Morning brief** | Claude skill that renders my day as one page, on a weekday schedule | One read before the first meeting |
 | **Andrew** | Property investment bot - shortlists and evaluates listings against personal investment goals | Replaced hours of manual weekend research with automated recommendations |
 
 ---
 
-### How it fits together
+### How I build: loop engineering
+
+Throughline is built by the loop it measures. Agents plan, build, verify and review; three separate review passes check for bugs, security and the spec; only I merge.
+
+```mermaid
+%%{init: {"flowchart": {"wrappingWidth": 320}}}%%
+flowchart TB
+    issue["<b>Jira story</b><br/>ready, assigned to the agent"]
+    build["<b>Implement</b><br/>plan mode · playbook by issue type<br/>loops until checks pass"]
+    verify["<b>Verify</b><br/>QA agent · fresh context · read-only"]
+    bugs["<b>Review 1</b><br/>bugs and logic"]
+    sec["<b>Review 2</b><br/>security and privacy"]
+    spec["<b>Review 3</b><br/>spec and plan"]
+    merge(["I review and merge"])
+    ship["<b>Deploy</b><br/>Vercel · Jira to Done"]
+    measure["<b>Throughline measures it</b><br/>flow · DORA · agent-run ledger"]
+
+    issue --> build --> verify
+    verify -. NOT_READY .-> build
+    verify --> bugs & sec & spec
+    bugs & sec & spec --> merge
+    merge --> ship --> measure
+    measure -. "closing the loop" .-> issue
+
+    classDef default fill:transparent,stroke:#8E8E93,stroke-width:1px
+    classDef human fill:transparent,stroke:#2563EB,stroke-width:2px
+    classDef product fill:#2563EB,stroke:#2563EB,color:#FFFFFF
+    class merge human
+    class measure product
+```
+
+---
+
+### How I lead: signals in front of me
 
 ```mermaid
 %%{init: {"flowchart": {"wrappingWidth": 320}}}%%
@@ -53,6 +92,14 @@ flowchart TB
     class me human
     class andrew side
 ```
+
+---
+
+### Where I share
+
+Practical AI for leaders in the missing middle, between beginner tips and advanced builds: real systems, honest experiments and the simple stuff first.
+
+[LinkedIn](https://www.linkedin.com/in/pauliosouthall/) · [psouthall.com](https://psouthall.com)
 
 ---
 
