@@ -9,7 +9,7 @@
 
 AI adoption consultant in Sydney. Engineering leader. Operator.
 
-I lead a globally distributed team of ~200 engineers and architecture building high-performance platforms in fintech and trading where uptime and performance is non-negotiable.
+I lead a globally distributed team of ~175 engineers and architecture building high-performance platforms in fintech and trading where uptime and performance is non-negotiable.
 
 AI-native decision making sits at the core of how I operate - keeping people risk, delivery health and compliance exposure in front of me, not behind me.
 
@@ -27,7 +27,7 @@ Currently **Head of Architecture and Engineering at FDJ**.
 |---|---|---|
 | **Throughline** | Engineering intelligence for teams of humans and agents: flow and DORA metrics, working agreements and an agent-run ledger. Built by the agent pipeline it measures, with 7 agent roles and 21 Claude skills | 6 of 15 merged pull requests came from the unattended pipeline, every one behind my merge (Oct 2026) |
 | **Jarvis** | AI orchestrator - the backbone of how I run my organisation | Shifted from instinct-led to signal-led leadership at scale |
-| **Chief of Staff AI** | Weekly Pulse skill: turns anonymised voice notes into a leadership read across 200 engineers | Earlier risk detection, better 1:1s, more proactive leadership |
+| **Chief of Staff AI** | Weekly Pulse skill: turns anonymised voice notes into a leadership read across ~175 engineers | Earlier risk detection, better 1:1s, more proactive leadership |
 | **Engineering Health Companion** | Weekly engineering health from GitLab: deterministic metrics, a Claude-written narrative and follow-up questions | Every number is checked against tool output, and names are pseudonymised before data leaves the laptop |
 | **AI-governed software factory** | Five role-separated agents (spec, architect, dev, QA, security) with a human approval gate between every stage | A tamper-evident audit trail from intent to release |
 | **Corporate Bingo** | Real-time multiplayer buzzword bingo, built as a vehicle for end-to-end AI orchestration. A requirements skill turns a plain-English brief into a ready GitHub issue | Live on Vercel |
@@ -78,7 +78,7 @@ flowchart TB
 flowchart TB
     signals["<b>Org signals</b><br/>delivery health<br/>compliance exposure<br/>anonymised team notes"]
     jarvis("<b>Jarvis</b><br/>orchestrator")
-    cos["<b>Chief of Staff AI</b><br/>patterns and risk<br/>across ~200 engineers"]
+    cos["<b>Chief of Staff AI</b><br/>patterns and risk<br/>across ~175 engineers"]
     front["<b>In front of me, not behind me</b><br/>daily briefing · 1:1 prep<br/>early risk flags"]
     me(["I decide and act"])
     andrew["<b>Andrew</b> · personal<br/>listings in, investment<br/>shortlists out"]
