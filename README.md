@@ -32,6 +32,7 @@ Currently **Head of Architecture and Engineering at FDJ**.
 | **AI-governed software factory** | Five role-separated agents (spec, architect, dev, QA, security) with a human approval gate between every stage | A tamper-evident audit trail from intent to release |
 | **Corporate Bingo** | Real-time multiplayer buzzword bingo, built as a vehicle for end-to-end AI orchestration. A requirements skill turns a plain-English brief into a ready GitHub issue | Live on Vercel |
 | **Peckish** | A Claude skill plus an MCP server: photo of the fridge in, three dinners you can make tonight out | Built in public, weekend by weekend |
+| **CornealScope** | Webcam computer vision that tracks how a ring pattern reflected off the cornea distorts over time, the shape change keratoconus causes. Runs entirely in the browser, with no data leaving the device | Scoring validated against synthetic eyes with known distortion. An engineering demo, not a medical device |
 | **Morning brief** | Claude skill that renders my day as one page, on a weekday schedule | One read before the first meeting |
 | **Andrew** | Property investment bot - shortlists and evaluates listings against personal investment goals | Replaced hours of manual weekend research with automated recommendations |
 
@@ -150,7 +151,8 @@ Tools I actually use to operate:
   <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
 </div>
 
 ---
