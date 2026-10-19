@@ -15,7 +15,7 @@ AI-native decision making sits at the core of how I operate - keeping people ris
 
 I build real systems. I share what actually works.
 
-Currently **Head of Architecture and Engineering at FDJ**.
+Currently **Global Head of Architecture & Engineering at FDJ**.
 
 [![LinkedIn](https://img.shields.io/badge/-Paul%20Southall-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pauliosouthall/)
 
